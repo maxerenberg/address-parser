@@ -1,5 +1,5 @@
 # address-parser
-An address parser built in Python.  
+A street address parser built in Python.  
 Usage:  
 ```
 >>> from addressParse import addressParse
